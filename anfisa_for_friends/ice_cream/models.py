@@ -1,4 +1,4 @@
-from core.models import PublishedModel
+    from core.models import PublishedModel
 from django.db import models
 
 
